@@ -5,7 +5,10 @@ A python script that iterates through words in a website and prints out the most
 
 ## usage
 ```
-git clone 
-cd
-
+git clone https://github.com/kamaliki/Dictionary-scrapper.git
+cd to the directory
+create a virtual env
+pip install -r requiremets.txt
+run scrapper.py
 ```
+## output
