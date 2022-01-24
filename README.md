@@ -12,3 +12,8 @@ pip install -r requiremets.txt
 run scrapper.py
 ```
 ## output
+![Alt text](/outpu.PNG?raw=true "Title")
+
+## note
+There was was more to this challange like categorizing the English from th non-English words with which I'm still working on. 
+Updates coming soon
